@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-   "name":"Discount Things",
+   "name":"DiscountFinder",
    "version":"0.1.0",
    "content_scripts":[
        {
